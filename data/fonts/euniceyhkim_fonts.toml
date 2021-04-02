@@ -1,0 +1,11 @@
+name = "euniceyhkim_fonts"
+
+google_fonts = "family=Merriweather"
+
+heading_font = "Merriweather"
+
+body_font = "Merriweather"
+
+nav_font = "Merriweather"
+
+mono_font = "Merriweather"

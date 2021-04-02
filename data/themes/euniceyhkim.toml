@@ -1,0 +1,28 @@
+# from Isabel Gomez (igomez39)
+
+# Theme metadata
+name = "euniceyhkim"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#25A18E"
+
+# Menu
+menu_primary = "#00A5CF"
+menu_text = "#000001"
+menu_text_active = "#000001"
+menu_title = "#000001"
+
+# Backgrounds
+background = "#9FFFCB"
+home_section_odd = "#9fffcb"
+home_section_even = "#FAFAFF"
+
+dark_background = ""
+dark_home_section_odd = ""
+dark_home_section_even = ""
+
+link = "#AA767C"
+link_hover = "#118AB2"

@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: "euniceyhkim"
 day_night: true
-font: ''
+font: "euniceyhkim_fonts"
 font_size: L
 
 # SEO
