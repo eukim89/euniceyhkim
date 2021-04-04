@@ -19,8 +19,7 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Smith College
 role: Statistical and Data Sciences Major
 social:
 - icon: envelope
@@ -33,10 +32,10 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/eukim89
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/euniceyhkim/
 superuser: true
 title: Eunice Kim
 ---
