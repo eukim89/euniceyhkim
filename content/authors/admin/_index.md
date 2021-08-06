@@ -1,17 +1,9 @@
 ---
-bio: I am a statistical and data sciences major at Smith College! I am interested in opportunities in civic tech!
-  matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BA in Statistical and Data Sciences
+    institution: Smith College
+    year: 2022
 email: ""
 highlight_name: false
 interests:
@@ -27,9 +19,6 @@ social:
   link: /#contact
 - display:
     header: true
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/eukim89
@@ -40,7 +29,7 @@ superuser: true
 title: Eunice Kim
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Eunice Kim is a senior at Smith College in Northampton, Massachusetts. She is a Statistical and Data Sciences major, Economics minor, and a Translation Studies concentrator. She is co-chair of Smith’s Korean Students Association and a member of Smith’s orchestra. She loves watching reality TV shows and listening to true crime and science podcasts. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
