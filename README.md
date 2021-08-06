@@ -1,1 +1,1 @@
-# euniceyhkim
+I used [Allison Hill's post](https://alison.rbind.io/blog/2020-12-new-year-new-blogdown/) to create [my own website](https://euniceyhkim.netlify.app/)! Thanks to Isabel Gomez and Statistical and Data Sciences: Coalition of Color at Smith College!
