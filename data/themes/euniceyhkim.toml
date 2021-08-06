@@ -7,22 +7,22 @@ name = "euniceyhkim"
 light = true
 
 # Primary
-primary = "#25A18E"
+primary = "#F2E7BB"
 
 # Menu
-menu_primary = "#00A5CF"
-menu_text = "#000001"
-menu_text_active = "#000001"
-menu_title = "#000001"
+menu_primary = "#D7B377"
+menu_text = "#273F34"
+menu_text_active = "#7A6F9B"
+menu_title = "#7A6F9B"
 
 # Backgrounds
-background = "#9FFFCB"
-home_section_odd = "#9fffcb"
-home_section_even = "#FAFAFF"
+background = "#DCC3EA"
+home_section_odd = "#F2E7BB"
+home_section_even = "#F2E7BB"
 
-dark_background = ""
-dark_home_section_odd = ""
-dark_home_section_even = ""
+dark_background = "#273F34"
+dark_home_section_odd = "#7A6F9B"
+dark_home_section_even = "#7A6F9B"
 
 link = "#AA767C"
 link_hover = "#118AB2"
